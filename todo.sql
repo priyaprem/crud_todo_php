@@ -36,5 +36,5 @@ CREATE TABLE IF NOT EXISTS `tasks` (
 --
 
 INSERT INTO `tasks` (`id`, `name`) VALUES
-(2, 'sa'),
-(3, 'sam');
+(2, 'write code'),
+(3, 'clean code');
